@@ -1,4 +1,4 @@
-<h1 align="center">Hi <iframe src="https://giphy.com/embed/KGMzZvWa5su2O5LCVR" width="480" height="461" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>, I'm Suresh</h1>
+<h1 align="center">Hi <img src="https://giphy.com/embed/KGMzZvWa5su2O5LCVR">, I'm Suresh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
