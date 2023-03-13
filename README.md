@@ -30,6 +30,6 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suresh2218&show_icons=true&locale=en&layout=compact" alt="suresh2218" /></p>
-<br/>
+<br/><br/><br/><br/><br/> <hr/>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suresh2218&show_icons=true&locale=en" alt="suresh2218" /></p>
