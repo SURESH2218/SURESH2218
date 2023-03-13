@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **sureshalabani2785@gmail.com**
  
-   <br/><br/><br/><br/><br/>
+   <br/><br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suresh alabani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh alabani" height="30" width="40" /></a> <br/>
-  <hr/>
+
 <a href="https://www.leetcode.com/suresh2785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suresh2785" height="30" width="40" /></a>
 </p>
 
