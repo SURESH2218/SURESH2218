@@ -10,14 +10,14 @@
 
 - 📫 How to reach me **sureshalabani2785@gmail.com**
  
-   <br/><br/><br/>
+   <br/><br/><br/> <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suresh alabani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh alabani" height="30" width="40" /></a> <br/>
 
 <a href="https://www.leetcode.com/suresh2785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suresh2785" height="30" width="40" /></a>
 </p>
-
+<hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -28,8 +28,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suresh2218&show_icons=true&locale=en&layout=compact" alt="suresh2218" /></p>
-
+<br/>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suresh2218&show_icons=true&locale=en" alt="suresh2218" /></p>
