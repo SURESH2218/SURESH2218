@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suresh</h1>
+<h1 align="center">Hi <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2FClarin--transparent-KGMzZvWa5su2O5LCVR&psig=AOvVaw3v9cMoNXKGMmH14t4XK51U&ust=1678794038501000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCDlKHp2P0CFQAAAAAdAAAAABAE">, I'm Suresh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
