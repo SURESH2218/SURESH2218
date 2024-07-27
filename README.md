@@ -2,8 +2,8 @@
 
 **`MERN Stack Developer`**
 
+Full Stack Developer specializing in MERN stack technologies. Passionate about creating dynamic web applications and continuously learning new skills. Experienced with React, Node.js, Express, and MongoDB. Let's build something amazing together!
 
-<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### 🚀 More about me
 
