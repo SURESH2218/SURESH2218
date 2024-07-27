@@ -1,19 +1,15 @@
-# 🏄‍♂️ Karan Chandekar
+# 🏄‍♂️ Suresh Alabani
 
 **`MERN Stack Developer`**
 
-MERN Stack Developer adept at crafting dynamic web solutions. Proficient in MongoDB, Express.js, React, and Node.js, with a keen focus on delivering seamless user experiences. Passionate about integrating cutting-edge technologies to build robust and efficient applications. Collaborative team member with a drive to continuously expand skills and stay at the forefront of modern web development trends.
-
-#
 
 <a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### 🚀 More about me
 
 - 🌱 I’m currently learning **Fullstack Development**
-- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
-- 📫 How to reach me: **karanchandekar431@gmail.com**
-- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
+- 👨‍💻 Personal portfolio: **<a href="https://github.com/SURESH2218/portfolio">Portfolio</a>**
+- 📫 How to reach me: **sureshalabani2785@gmail.com**
 
 ---
 
@@ -59,7 +55,6 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 ### 💻 OS
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
 
@@ -67,11 +62,9 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 ### 🔗 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-chandekar-a87263219)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karanchandekar1)
-[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranChandekar)
-[![Whatsapp](https://img.shields.io/badge/whatsapp-%2300FF00.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=7798227672&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
-[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanchandekar431@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-alabani-b49724199/)
+[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SURESH2218/)
+[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshalabani2785@gmail.com)
 
 #
 
@@ -79,9 +72,7 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=suresh2218&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suresh2218&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
-
-# edit with suresh alabani email sureshalabani2785@gmail.com and im not working right now
