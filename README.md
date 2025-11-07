@@ -73,8 +73,6 @@ I enjoy architecting backend systems, optimizing APIs, and deploying production-
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SURESH2218&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 🌍 Connect With Me
